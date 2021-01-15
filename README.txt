@@ -1,0 +1,1 @@
+This application is to create shop using Spring Boot, Spring MVC, Spring Security, Spring Data.
